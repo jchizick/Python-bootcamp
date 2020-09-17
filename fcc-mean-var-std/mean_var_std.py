@@ -2,14 +2,14 @@ import numpy as np
 
 def calculate(list):
   if len.list != 9:
-    return ValueError"List must contain nine numbers."
+    return ValueError("List must contain nine numbers.")
   
   np.array
   dictionary = {}
   
   
+#TEST
 
 
 
-
-    return calculations
+  return calculations
